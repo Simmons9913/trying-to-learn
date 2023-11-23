@@ -1,0 +1,65 @@
+.box1 {
+  padding: 15px;
+  padding-top: 45px;
+  margin: 15px;
+  /* margin-top: 79px; */
+  text-align: center;
+  text-transform: uppercase;
+  /* background-color: blueviolet; */
+  border: 2px solid rgb(112, 5, 94);
+  width: 185px;
+  height: 125px;
+  border-radius: 10px;
+}
+
+#demo {
+  margin: 5px;
+  padding: 5px;
+  width: 350px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: azure;
+}
+
+/* .box1-text {
+  color: darkgoldenrod;
+} */
+
+.box2 {
+  color: red;
+}
+
+/* * {
+  color: rgba(211, 211, 211, 0.021);
+} */
+
+/* .calendar {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+/* }
+
+.row {
+  display: flex;
+}
+
+.cell {
+  flex: 1;
+  border: 1px solid gray;
+  border-top: none;
+  border-left: none;
+}
+
+.row .cell:first-child {
+  border-left: 1px solid gray;
+}
+
+.row:first-child .cell {
+  border-top: 1px solid gray;
+} */ 
+
+.para1{
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  color: aqua;
+}
